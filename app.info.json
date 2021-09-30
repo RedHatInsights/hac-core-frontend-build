@@ -1,12 +1,12 @@
 {
   "app_name": "hac-core",
-  "src_hash": "5c4803b60e6b4c17a35575fd0e237331dd55398b",
+  "src_hash": "356c65c15abe3ff25e974d7ef1aff21c8dc5b8da",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.135.0","@patternfly/react-table@4.29.0"],
   "travis": {
     "event_type": "push",
-    "build_number": "8",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/hac-core-frontend/builds/238831180"
+    "build_number": "11",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/hac-core-frontend/builds/238836938"
   }
 }
