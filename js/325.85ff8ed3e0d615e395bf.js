@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhac_core=self.webpackChunkhac_core||[]).push([[325],{9325:(e,t,r)=>{r.r(t),r.d(t,{default:()=>h});var a=r(3264),c=r.n(a),n=r(6530),o=r(8931),l=r(319),s=r(6245),u=r(5240);r(5308);const h=()=>c().createElement(o.Provider,{store:(0,l.S1)([]).getStore()},c().createElement(n.BrowserRouter,{basename:(0,u.eb)(window.location.pathname,1)},c().createElement(s.Z,null)))}}]);
+//# sourceMappingURL=../sourcemaps/325.f42459221ce2295e1482c238694edd94.js.map
