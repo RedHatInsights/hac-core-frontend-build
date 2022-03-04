@@ -1,10 +1,10 @@
 {
     "hacCore": {
         "entry": [
-            "/beta/apps/hac-core/hacCore.a4338116c67676549a25.js"
+            "/beta/apps/hac-core/hacCore.ba8a7fefabcc9cf2064b.js"
         ],
         "modules": [
-            "/beta/apps/hac-core/js/317.4f0b00d8205a7875b970.js",
+            "/beta/apps/hac-core/js/317.697c9f1331e0303bba0d.js",
             "/beta/apps/hac-core/css/317.952b8068d339ea3e78f4.css",
             "/beta/apps/hac-core/js/209.de8efee06a70cbb2e86a.js"
         ]
