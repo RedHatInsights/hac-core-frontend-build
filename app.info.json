@@ -1,11 +1,11 @@
 {
   "app_name": "hac-core",
   "node_version": ">=14.0.0",
-  "src_hash": "d578c0ea9216faa2fee9ed814ba63d35edba98f9",
+  "src_hash": "ba805b696e05d3b5a6fb86c143afb24c301991ab",
   "src_tag": "",
   "src_branch": "main",
-  "patternfly_dependencies": ["@patternfly/patternfly@4.159.1","@patternfly/quickstarts@1.3.0","@patternfly/react-catalog-view-extension@4.26.4","@patternfly/react-core@4.175.4","@patternfly/react-table@4.44.4"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.6","@redhat-cloud-services/frontend-components@3.5.1"],
+  "patternfly_dependencies": ["@patternfly/patternfly@4.194.4","@patternfly/quickstarts@2.2.3","@patternfly/react-catalog-view-extension@4.65.1","@patternfly/react-core@4.214.1","@patternfly/react-table@4.83.1"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.16","@redhat-cloud-services/frontend-components@3.9.1"],
   "travis": {
     "event_type": "",
     "build_number": "",
