@@ -1,12 +1,12 @@
 {
     "hacCore": {
         "entry": [
-            "/beta/apps/hac-core/hacCore.1675268089689.7a64dcd9ce0b0865509b.js"
+            "/beta/apps/hac-core/hacCore.1675439987501.381dc42eb06c0e4a3f66.js"
         ],
         "modules": [
-            "/beta/apps/hac-core/js/6647.1675268089736.7a64dcd9ce0b0865509b.js",
+            "/beta/apps/hac-core/js/6647.1675439987548.381dc42eb06c0e4a3f66.js",
             "/beta/apps/hac-core/css/6647.c88a058e679cb22c4041.css",
-            "/beta/apps/hac-core/js/1209.1675268089736.7a64dcd9ce0b0865509b.js"
+            "/beta/apps/hac-core/js/1209.1675439987548.381dc42eb06c0e4a3f66.js"
         ]
     }
 }
