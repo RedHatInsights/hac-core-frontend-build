@@ -1,12 +1,11 @@
 {
-    "hacCore": {
-        "entry": [
-            "/beta/apps/hac-core/hacCore.39efa6965eec09def97e.js"
-        ],
-        "modules": [
-            "/beta/apps/hac-core/js/7271.39efa6965eec09def97e.js",
-            "/beta/apps/hac-core/css/7271.7fbdf35966c3a1d2b20c.css",
-            "/beta/apps/hac-core/js/1026.39efa6965eec09def97e.js"
-        ]
-    }
+  "name": "hacCore",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/hac-core/",
+  "loadScripts": [
+    "hacCore.c034520c717de730f9b3.js"
+  ],
+  "buildHash": "c034520c717de730f9b3d0dbe7a7c4c1"
 }
