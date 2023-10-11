@@ -1,0 +1,1 @@
+(self.webpackChunkhacCore=self.webpackChunkhacCore||[]).push([[2796],{12796:()=>{}}]);

@@ -1,0 +1,11 @@
+{
+  "name": "hacCore",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/hac-core/",
+  "loadScripts": [
+    "hacCore.0b16dccbb4c7c17b4190.js"
+  ],
+  "buildHash": "0b16dccbb4c7c17b419029f1e74c2ee4"
+}
