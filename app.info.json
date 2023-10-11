@@ -1,7 +1,7 @@
 {
   "app_name": "hac-core",
   "node_version": ">=16.0.0",
-  "src_hash": "a0b9e40eb454276f7a9046305855dcdac52f4116",
+  "src_hash": "cca88de831846236196f2adbbc84c476b7335b0b",
   "src_tag": "",
   "src_branch": "main",
   "patternfly_dependencies": ["@patternfly/patternfly@4.194.4","@patternfly/quickstarts@2.3.1","@patternfly/react-catalog-view-extension@4.65.1","@patternfly/react-core@4.224.1","@patternfly/react-table@4.83.1"],
