@@ -1,0 +1,4 @@
+.notification-item{position:relative;margin:10px;word-break:break-word}
+.pf-v5-l-level{--pf-v5-l-level--m-gutter--Gap: var(--pf-v5-global--gutter);display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between}.pf-v5-l-level.pf-m-gutter{gap:var(--pf-v5-l-level--m-gutter--Gap)}
+.notifications-portal{position:fixed;top:0;right:0;z-index:2000}@media only screen and (max-width: 600px){.notifications-portal{margin:0;width:initial}}@media only screen and (min-width: 768px){.notifications-portal{margin:30px;width:708px}}
+.pf-v5-l-bullseye{--pf-v5-l-bullseye--Padding: 0;display:flex;align-items:center;justify-content:center;height:100%;padding:var(--pf-v5-l-bullseye--Padding);margin:0}
