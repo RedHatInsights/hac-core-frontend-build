@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/hac-core/",
   "loadScripts": [
-    "hacCore.0b16dccbb4c7c17b4190.js"
+    "hacCore.a2d2ecc556ece51a417a.js"
   ],
-  "buildHash": "0b16dccbb4c7c17b419029f1e74c2ee4"
+  "buildHash": "a2d2ecc556ece51a417a7e16ec327d83"
 }
